@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jawad123-creator.github.io/sitemap.xml
